@@ -45,7 +45,9 @@ export function Navbar() {
         </Link>
 
         <ul className="hidden items-center gap-8 md:flex">
-          {navLinks.map(({ key, path }) => (
+          {navLinks
+            .filter(({ path }) => !(path === '/' && isHome))
+            .map(({ key, path }) => (
             <li key={key}>
               <Link
                 to={path}
@@ -94,7 +96,9 @@ export function Navbar() {
             className="glass-strong border-t border-white/10 md:hidden"
           >
             <ul className="flex flex-col gap-1 px-4 py-4">
-              {navLinks.map(({ key, path }) => (
+              {navLinks
+                .filter(({ path }) => !(path === '/' && isHome))
+                .map(({ key, path }) => (
                 <li key={key}>
                   <Link
                     to={path}
