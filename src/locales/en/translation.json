@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "home": {
+      "title": "Blazing Burger | The Best Craft Burger Experience in Debrecen",
+      "description": "Premium craft burgers in Debrecen. Handmade patties, fresh ingredients, friendly service. Dine-in, takeaway, catering."
+    },
+    "menu": {
+      "title": "Menu | Blazing Burger Debrecen",
+      "description": "Explore the Blazing Burger menu — craft burgers, wraps, loaded fries and premium sides in Debrecen."
+    },
+    "about": {
+      "title": "About Us | Blazing Burger Debrecen",
+      "description": "Discover the Blazing Burger story — passion for quality food, a local favorite in Debrecen."
+    },
+    "gallery": {
+      "title": "Gallery | Blazing Burger Debrecen",
+      "description": "See the world of Blazing Burger — premium burgers, cozy atmosphere and unforgettable experiences."
+    },
+    "contact": {
+      "title": "Contact | Blazing Burger Debrecen",
+      "description": "Visit us in Debrecen! Address, opening hours, phone number and directions all in one place."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "about": "About",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "order": "Order",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "eyebrow": "Premium Craft Burger House",
+    "title": "The Best Craft Burger Experience in Debrecen",
+    "subtitle": "Handmade patties, fresh local ingredients and the friendliest service in town — passion in every bite.",
+    "ctaMenu": "View Menu",
+    "ctaCall": "Call Now",
+    "reviews": "reviews"
+  },
+  "signature": {
+    "eyebrow": "The Experience",
+    "title": "More Than a Burger — An Experience",
+    "subtitle": "Behind every burger lies artisan care, premium ingredients and the perfect sear.",
+    "handmade": {
+      "title": "Handmade Burgers",
+      "description": "Every patty is hand-formed, freshly grilled and cooked to the perfect texture — not factory-made, but true craft."
+    },
+    "fresh": {
+      "title": "Fresh Ingredients",
+      "description": "Daily fresh vegetables, premium meat and carefully selected toppings — quality you can taste."
+    },
+    "quality": {
+      "title": "Premium Quality",
+      "description": "We never cut corners on ingredients. Every burger is made to the highest standard, every single time."
+    },
+    "service": {
+      "title": "Friendly Service",
+      "description": "A family atmosphere, attentive staff and genuine care — every guest matters here."
+    }
+  },
+  "favorites": {
+    "eyebrow": "Favorites",
+    "title": "Customer Favorites",
+    "subtitle": "Discover our most popular creations — the actual menu is available in the Menu section.",
+    "note": "Actual menu available in Menu section.",
+    "signature": {
+      "title": "Signature Burger",
+      "description": "Our house specialty — double patty, premium toppings and a secret sauce that makes it unforgettable."
+    },
+    "smash": {
+      "title": "Smash Burger",
+      "description": "Thin, crispy patty, melted cheese and classic toppings — the essence of American street food."
+    },
+    "fries": {
+      "title": "Loaded Fries",
+      "description": "Crispy fries with generous toppings — the perfect side or a standalone experience."
+    },
+    "cta": "View"
+  },
+  "stats": {
+    "eyebrow": "By the Numbers",
+    "title": "Why Locals Love Us",
+    "rating": "Rating",
+    "reviews": "Reviews",
+    "burgers": "Burgers Served",
+    "burgersValue": "Thousands",
+    "fresh": "Fresh Daily Ingredients"
+  },
+  "reviews": {
+    "eyebrow": "Guest Reviews",
+    "title": "What They Say About Us",
+    "subtitle": "Over 499 satisfied guests have shared their experience on Google.",
+    "localGuide": "Local Guide",
+    "googleReview": "Google review",
+    "prevReview": "Previous review",
+    "nextReview": "Next review",
+    "goToReview": "Go to review",
+    "items": [
+      {
+        "name": "Márk G.",
+        "text": "Go here if you want to have some REAL burgers with Taste and Soul. Nice job guys, thanks for the opportunity. Greetings from Vác :)",
+        "localGuide": true
+      },
+      {
+        "name": "Silvanian Farmvet",
+        "text": "10/10. Kituno, very good. Best burger in town!",
+        "localGuide": true
+      },
+      {
+        "name": "Stacy McGraw",
+        "text": "First time in Debrecen. Was wanting a burger. Came across this place and so glad we did. Burger was cooked to perfection and the fries were incredible.",
+        "localGuide": true
+      },
+      {
+        "name": "Lior Megidish",
+        "text": "Perfect place, the most delicious hamburger in Debrecen, excellent service, recommended!",
+        "localGuide": true
+      },
+      {
+        "name": "Jens Holm",
+        "text": "Another wonderful example of why American burger chains shouldn't take over the world. Great little burger place with authentic burgers, authentic flavour, and done the way it should be done. Very good service, with everyone speaking English.",
+        "localGuide": true
+      },
+      {
+        "name": "Matthias L.",
+        "text": "That's the place for burger. Top Service. Super delicious food.",
+        "localGuide": true
+      },
+      {
+        "name": "Zoli Bertli",
+        "text": "One of the best burger makers I have ever tried. At the same time authentic and special, every component is in its place. Worth to try by all means.",
+        "localGuide": true
+      },
+      {
+        "name": "Mk Ten",
+        "text": "I went there with a colleague, he said it's the best burger around and boy was he right! The waiting time is so long at rush hour, but totally worth the wait.",
+        "localGuide": true
+      },
+      {
+        "name": "Nez",
+        "text": "Along with its little brother 2.0, the best burgers in Debrecen.",
+        "localGuide": true
+      },
+      {
+        "name": "Georg Wimmer",
+        "text": "Best burger in Debrecen! The guys are giving great effort and it is definitely worth to go there!"
+      },
+      {
+        "name": "Jozsef Dobrik",
+        "text": "Best hamburger ever.",
+        "localGuide": true
+      },
+      {
+        "name": "Péter Erdős",
+        "text": "Full place, good quality, good portions, good price. And on top of that, the staff is nice.",
+        "localGuide": true
+      },
+      {
+        "name": "János Borbély",
+        "text": "It's not overdone, the guy serving really cares about the guest's opinion. The hamburger is juicy and tasty. There's no feeling that weighs on the stomach afterwards. Only the good taste remains.",
+        "localGuide": true
+      },
+      {
+        "name": "Ahmet Faruk Çobanbeyli",
+        "text": "Best burger in all around Hungary!"
+      },
+      {
+        "name": "Tamirlan Bakirov",
+        "text": "One of the best burgers in Debrecen.",
+        "localGuide": true
+      }
+    ]
+  },
+  "location": {
+    "eyebrow": "Location",
+    "title": "Find Us",
+    "subtitle": "Visit us in the heart of Debrecen — we can't wait to welcome you!",
+    "address": "Address",
+    "hours": "Opening Hours",
+    "weekdays": "Monday – Friday",
+    "weekend": "Saturday – Sunday",
+    "directions": "Get Directions",
+    "call": "Call"
+  },
+  "menu": {
+    "eyebrow": "Menu",
+    "title": "Our Menu",
+    "subtitle": "Craft burgers, fresh wraps and premium sides — everything Blazing Burger has to offer.",
+    "orderCta": "Call us to place your order!",
+    "orderNow": "Order Now",
+    "empty": "Menu coming soon.",
+    "emptyHint": "",
+    "zoom": "Zoom",
+    "close": "Close",
+    "prev": "Previous",
+    "next": "Next",
+    "imageAlt": "Menu page"
+  },
+  "menuData": {
+    "signature": "Signature",
+    "combos": {
+      "title": "Meal Upgrades",
+      "subtitle": "Complete your meal with a combo deal",
+      "comboFries": "French fries",
+      "comboFriesSoda33": "French fries + 0.33L soft drink",
+      "comboFriesSoda50": "French fries + 0.5L soft drink"
+    },
+    "burgers": {
+      "title": "Burgers",
+      "items": {
+        "blazingBurger": {
+          "name": "Blazing Burger",
+          "description": "Burger bun, beef patty, cheddar cheese, grilled mushrooms, jalapeño, lecsó, bacon, grilled peppers, burger sauce, garlic mayo."
+        },
+        "cheeseBurger": {
+          "name": "Cheese Burger",
+          "description": "Burger bun, beef patty, cheddar cheese, pickles, red onion, ketchup, mustard."
+        },
+        "classicBurger": {
+          "name": "Classic Burger",
+          "description": "Burger bun, beef patty, cheddar cheese, iceberg lettuce, tomato, red onion, burger sauce, garlic mayo."
+        },
+        "riotBurger": {
+          "name": "RIOT Burger",
+          "description": "Burger bun, beef patty, cheddar cheese, tomato, onion rings, jalapeño, hot sauce, garlic mayo."
+        },
+        "fatBurger": {
+          "name": "FAT Burger",
+          "description": "Burger bun, beef patty, cheddar cheese, tomato, onion rings, bacon, burger sauce, BBQ sauce."
+        },
+        "mrMarshall": {
+          "name": "MR. MARSHALL",
+          "description": "Burger bun, beef patty, cheddar cheese, pickles, iceberg lettuce, onion rings, burger sauce, BBQ sauce."
+        },
+        "baconDoubleCheese": {
+          "name": "Bacon Double Cheese",
+          "description": "Burger bun, double beef patty, double cheddar, bacon, pickles, red onion, ketchup, mustard."
+        },
+        "babylonTower": {
+          "name": "Babylon Tower",
+          "description": "Burger bun, double beef patty, double cheddar, bacon, lecsó, jalapeño, tomato, onion rings, burger sauce, garlic mayo."
+        },
+        "pacemaker": {
+          "name": "Pacemaker",
+          "description": "Burger bun, double beef patty, double cheddar, pancetta, red onion, pickles, crispy fried onions, mustard, BBQ sauce."
+        }
+      }
+    },
+    "gyros": {
+      "title": "Gyros",
+      "items": {
+        "gyrosPlate": {
+          "name": "Gyros Plate",
+          "description": "Chicken thigh strips, fries, iceberg lettuce, tomato, red onion, cucumber, grated trappista cheese, dressing."
+        },
+        "gyrosTortilla": {
+          "name": "Gyros Tortilla",
+          "description": "Chicken thigh strips, fries, iceberg lettuce, tomato, red onion, cucumber, grated trappista cheese, dressing — in a tortilla wrap."
+        }
+      }
+    },
+    "wraps": {
+      "title": "Tortilla Wraps",
+      "items": {
+        "mayoWrap": {
+          "name": "Mayo Wrap",
+          "description": "Crispy chicken strips, iceberg lettuce, tomato, cucumber, garlic mayo."
+        },
+        "bbqWrap": {
+          "name": "BBQ Wrap",
+          "description": "Crispy chicken strips, cheddar cheese, iceberg lettuce, tomato, red onion, BBQ sauce."
+        },
+        "sweetChiliWrap": {
+          "name": "Sweet Chili Wrap",
+          "description": "Crispy chicken strips, bacon, cheddar cheese, iceberg lettuce, cucumber, sweet chili sauce."
+        },
+        "sloppyJoeWrap": {
+          "name": "Sloppy Joe Wrap",
+          "description": "Minced beef patty, cheddar cheese, iceberg lettuce, tomato, red onion, jalapeño, burger sauce."
+        },
+        "blazingWrap": {
+          "name": "Blazing Wrap",
+          "description": "Minced beef patty, cheddar cheese, iceberg lettuce, grilled peppers, grilled mushrooms, jalapeño, burger sauce."
+        }
+      }
+    },
+    "loaded": {
+      "title": "Loaded & Plates",
+      "items": {
+        "chickNSalad": {
+          "name": "Chick 'N' Salad",
+          "description": "Crispy chicken, fries, iceberg lettuce, tomato, cucumber, red onion, sweet chili sauce."
+        },
+        "blazingFries": {
+          "name": "Blazing Fries",
+          "description": "Minced beef patty, bacon, fries, grilled peppers, grilled mushrooms, jalapeño, burger sauce."
+        },
+        "blazingGyrosPlate": {
+          "name": "Blazing Gyros Plate",
+          "description": "Chicken thigh strips, fries, iceberg lettuce, jalapeño, grilled peppers, grilled mushrooms, bacon, grated trappista cheese, burger sauce."
+        },
+        "sloppyJoePlate": {
+          "name": "Sloppy Joe Plate",
+          "description": "Minced beef patty, fries, iceberg lettuce, tomato, red onion, jalapeño, burger sauce."
+        }
+      }
+    },
+    "sides": {
+      "title": "Sides",
+      "items": {
+        "fries": { "name": "French Fries", "description": "Crispy, freshly fried golden fries." },
+        "onionRings": { "name": "Onion Rings (6 pcs)", "description": "Crispy fried onion rings." },
+        "potatoPancakes": { "name": "Potato Pancakes (2 pcs)", "description": "Homemade potato pancakes, fried crispy." },
+        "salad": { "name": "Salad", "description": "Iceberg lettuce, tomato, cucumber, red onion." }
+      }
+    },
+    "extras": {
+      "title": "Extras",
+      "items": {
+        "beefPatty": { "name": "Beef Patty", "description": "Extra beef patty." },
+        "crispyChicken": { "name": "Crispy Chicken", "description": "Extra crispy chicken breast." },
+        "chickenStrips": { "name": "Chicken Strips", "description": "Extra chicken strips." },
+        "bacon": { "name": "Bacon", "description": "Extra bacon." },
+        "vegetables": { "name": "Vegetables", "description": "Extra vegetables." },
+        "cheese": { "name": "Cheese", "description": "Extra cheddar cheese." }
+      }
+    },
+    "sauces": {
+      "title": "Sauces",
+      "items": {
+        "ketchup": { "name": "Ketchup", "description": "" },
+        "mustard": { "name": "Mustard", "description": "" },
+        "garlicMayo": { "name": "Garlic Mayo", "description": "" },
+        "burgerSauce": { "name": "Burger Sauce", "description": "" },
+        "bbqSauce": { "name": "BBQ Sauce", "description": "" },
+        "sweetChiliSauce": { "name": "Sweet Chili Sauce", "description": "" },
+        "hotSauce": { "name": "Hot Sauce", "description": "" }
+      }
+    }
+  },
+  "about": {
+    "eyebrow": "Our Story",
+    "title": "The Blazing Burger Story",
+    "subtitle": "Passion, quality and commitment to the perfect burger.",
+    "story1": {
+      "title": "A Passion Born",
+      "description": "Blazing Burger was born from the vision of bringing a true American craft burger experience to Debrecen. Not a fast-food chain, but a local favorite where every burger is made with artisan care."
+    },
+    "story2": {
+      "title": "Quality in Every Bite",
+      "description": "We believe quality isn't a luxury — it's a principle. Fresh local ingredients, hand-formed patties and carefully selected toppings. We never cut corners because our guests deserve the best."
+    },
+    "story3": {
+      "title": "A Local Favorite",
+      "description": "Over 499 satisfied guests, a 4.9 rating — these aren't just numbers. They prove that Blazing Burger has become one of Debrecen's most beloved burger houses. Families, friends and burger enthusiasts all keep coming back."
+    },
+    "values": {
+      "eyebrow": "Our Values",
+      "title": "What We Believe In",
+      "craft": {
+        "title": "Artisan Quality",
+        "description": "Every patty is freshly made, hand-formed — not factory-made, but true craft."
+      },
+      "local": {
+        "title": "Local Favorite",
+        "description": "We're proud to be the home of Debrecen's burger enthusiasts."
+      },
+      "passion": {
+        "title": "Passion",
+        "description": "Our love for food shows in every burger, every fry, every cup of coffee."
+      }
+    }
+  },
+  "gallery": {
+    "eyebrow": "Gallery",
+    "title": "Moments at Blazing Burger",
+    "subtitle": "Premium burgers, cozy atmosphere and unforgettable experiences.",
+    "viewImage": "View image",
+    "facebookCta": "More photos on Facebook",
+    "facebookDescription": "Follow us and see our latest photos on our Facebook page."
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Get in Touch",
+    "subtitle": "We welcome you at Blazing Burger — whether for a quick lunch or a family dinner.",
+    "address": "Address",
+    "phone": "Phone",
+    "hours": "Opening Hours",
+    "weekdays": "Monday – Friday",
+    "weekend": "Saturday – Sunday",
+    "services": "Services",
+    "parking": "Parking",
+    "parkingInfo": "Free parking available nearby. Please follow street signage.",
+    "social": "Social Media",
+    "socialPlaceholder": "Coming soon",
+    "directions": "Get Directions",
+    "call": "Call Now",
+    "cta": "Visit Us",
+    "ctaDescription": "Book a table by phone, or just walk in — we're always happy to see you!"
+  },
+  "services": {
+    "dineIn": "Dine In",
+    "takeaway": "Takeaway",
+    "outdoorSeating": "Outdoor Seating",
+    "catering": "Catering",
+    "familyFriendly": "Family Friendly",
+    "dogFriendly": "Dog Friendly"
+  },
+  "highlights": {
+    "craft": "Authentic Craft Burgers",
+    "handmade": "Handmade Patties",
+    "fresh": "Fresh Ingredients",
+    "coffee": "Great Coffee",
+    "fries": "Premium Fries"
+  },
+  "footer": {
+    "description": "Debrecen's premium craft burger experience. Artisan quality, fresh ingredients, unforgettable flavors.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "hours": "Opening Hours",
+    "weekdays": "Mon–Fri",
+    "weekend": "Sat–Sun",
+    "copyright": "All rights reserved.",
+    "madeIn": "Made with passion in Debrecen",
+    "followFacebook": "Follow on Facebook"
+  },
+  "common": {
+    "loading": "Loading...",
+    "logoAlt": "Blazing Burger logo",
+    "logoPlaceholder": "Blazing Burger"
+  }
+}

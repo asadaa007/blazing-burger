@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "home": {
+      "title": "Blazing Burger | Debrecen Legjobb Craft Burger Élménye",
+      "description": "Prémium kézműves burgerek Debrecenben. Kézzel készített pogácsák, friss alapanyagok, barátságos kiszolgálás. Dine-in, elvitel, catering."
+    },
+    "menu": {
+      "title": "Étlap | Blazing Burger Debrecen",
+      "description": "Fedezd fel a Blazing Burger étlapját — craft burgerek, wrapok, loaded fries és prémium köretek Debrecenben."
+    },
+    "about": {
+      "title": "Rólunk | Blazing Burger Debrecen",
+      "description": "Ismerd meg a Blazing Burger történetét — szenvedély a minőségi ételek iránt, helyi kedvenc Debrecenben."
+    },
+    "gallery": {
+      "title": "Galéria | Blazing Burger Debrecen",
+      "description": "Nézd meg a Blazing Burger világát — prémium burgerek, hangulatos környezet és felejthetetlen élmények."
+    },
+    "contact": {
+      "title": "Kapcsolat | Blazing Burger Debrecen",
+      "description": "Látogass el hozzánk Debrecenben! Cím, nyitvatartás, telefonszám és útvonaltervezés egy helyen."
+    }
+  },
+  "nav": {
+    "home": "Főoldal",
+    "menu": "Étlap",
+    "about": "Rólunk",
+    "gallery": "Galéria",
+    "contact": "Kapcsolat",
+    "order": "Rendelés",
+    "openMenu": "Menü megnyitása",
+    "closeMenu": "Menü bezárása"
+  },
+  "hero": {
+    "eyebrow": "Prémium Craft Burger Ház",
+    "title": "Debrecen Legjobb Craft Burger Élménye",
+    "subtitle": "Kézzel készített pogácsák, friss helyi alapanyagok és a város legbarátságosabb kiszolgálása — minden falatban érezhető a szenvedély.",
+    "ctaMenu": "Étlap Megtekintése",
+    "ctaCall": "Hívás Most",
+    "reviews": "értékelés"
+  },
+  "signature": {
+    "eyebrow": "Az Élmény",
+    "title": "Több Mint Burger — Egy Ízélmény",
+    "subtitle": "Minden burger mögött kézműves gondosság, prémium alapanyagok és a tökéletes sült áll.",
+    "handmade": {
+      "title": "Kézműves Burgerek",
+      "description": "Minden pogácsa kézzel formázott, frissen sült és a tökéletes állagúra készítve — nem gyári, hanem igazi craft."
+    },
+    "fresh": {
+      "title": "Friss Alapanyagok",
+      "description": "Napi friss zöldségek, prémium hús és gondosan válogatott feltétek — minőség, amit megízlelsz."
+    },
+    "quality": {
+      "title": "Prémium Minőség",
+      "description": "Nem spórolunk az alapanyagokon. Minden burger a legmagasabb színvonalon készül, minden alkalommal."
+    },
+    "service": {
+      "title": "Barátságos Kiszolgálás",
+      "description": "Családias hangulat, figyelmes személyzet és odaadás — itt minden vendég fontos."
+    }
+  },
+  "favorites": {
+    "eyebrow": "Kedvencek",
+    "title": "Vendégeink Kedvencei",
+    "subtitle": "Fedezd fel legnépszerűbb kreációinkat — a valódi étlap a Menü szekcióban található.",
+    "note": "A tényleges étlap az Étlap szekcióban érhető el.",
+    "signature": {
+      "title": "Signature Burger",
+      "description": "A ház specialitása — dupla pogácsa, prémium feltétek és titkos szósz, amitől felejthetetlen."
+    },
+    "smash": {
+      "title": "Smash Burger",
+      "description": "Vékony, ropogós pogácsa, olvadt sajt és klasszikus feltétek — az amerikai street food esszenciája."
+    },
+    "fries": {
+      "title": "Loaded Fries",
+      "description": "Ropogós sültkrumpli gazdag feltétekkel — a tökéletes kísérő vagy önálló élmény."
+    },
+    "cta": "Megnézem"
+  },
+  "stats": {
+    "eyebrow": "Számok",
+    "title": "Miért Szeretnek Minket a Helyiek",
+    "rating": "Értékelés",
+    "reviews": "Értékelés",
+    "burgers": "Kiszolgált Burger",
+    "burgersValue": "Több ezer",
+    "fresh": "Friss Napi Alapanyag"
+  },
+  "reviews": {
+    "eyebrow": "Vendégvélemények",
+    "title": "Mit Mondanak Rólunk",
+    "subtitle": "Több mint 499 elégedett vendég osztotta meg tapasztalatait a Google-on.",
+    "localGuide": "Local Guide",
+    "googleReview": "Google értékelés",
+    "prevReview": "Előző vélemény",
+    "nextReview": "Következő vélemény",
+    "goToReview": "Ugrás a véleményre",
+    "items": [
+      {
+        "name": "Márk G.",
+        "text": "Gyere ide, ha IGAZI burgert akarsz ízzel és lélekkel. Szép munka, srácok — üdv Vácról!",
+        "localGuide": true
+      },
+      {
+        "name": "Silvanian Farmvet",
+        "text": "10/10. Kiváló, nagyon jó. A legjobb burger a városban!",
+        "localGuide": true
+      },
+      {
+        "name": "Stacy McGraw",
+        "text": "Első alkalommal Debrecenben, burgerre vágytam. Örülök, hogy rátaláltam — tökéletesen sült burger és fantasztikus sültkrumpli.",
+        "localGuide": true
+      },
+      {
+        "name": "Lior Megidish",
+        "text": "Tökéletes hely, a legfinomabb hamburger Debrecenben, kiváló kiszolgálás — ajánlom!",
+        "localGuide": true
+      },
+      {
+        "name": "Jens Holm",
+        "text": "Remek példa arra, miért ne hódítsák el a világot az amerikai burgerláncok. Autentikus ízek, nagyon jó kiszolgálás, mindenki beszél angolul.",
+        "localGuide": true
+      },
+      {
+        "name": "Matthias L.",
+        "text": "Ez a burger hely. Top szolgáltatás, szuper finom étel!",
+        "localGuide": true
+      },
+      {
+        "name": "Zoli Bertli",
+        "text": "Az egyik legjobb burgerkészítő, akivel valaha találkoztam. Egyszerre autentikus és különleges — mindenképp érdemes kipróbálni.",
+        "localGuide": true
+      },
+      {
+        "name": "Mk Ten",
+        "text": "Kollégámmal mentem, azt mondta ez a legjobb burger a környéken — és igaza volt! Csúcsidőben hosszú a várakozás, de megéri.",
+        "localGuide": true
+      },
+      {
+        "name": "Nez",
+        "text": "A kistestvérével, a 2.0-val együtt Debrecen legjobb burgerjei!",
+        "localGuide": true
+      },
+      {
+        "name": "Georg Wimmer",
+        "text": "Debrecen legjobb burgere! A srácok nagy erőfeszítést tesznek — mindenképp érdemes elmenni!"
+      },
+      {
+        "name": "Jozsef Dobrik",
+        "text": "A valaha volt legjobb hamburger.",
+        "localGuide": true
+      },
+      {
+        "name": "Péter Erdős",
+        "text": "Tele a hely, jó minőség, jó adagok, jó ár. Ráadásul a személyzet kedves.",
+        "localGuide": true
+      },
+      {
+        "name": "János Borbély",
+        "text": "Nem túlzó, a kiszolgáló tényleg törődik a vendég véleményével. A hamburger szaftos és ízletes — utána nem nehéz érzés, csak a jó íz marad.",
+        "localGuide": true
+      },
+      {
+        "name": "Ahmet Faruk Çobanbeyli",
+        "text": "A legjobb burger egész Magyarországon!"
+      },
+      {
+        "name": "Tamirlan Bakirov",
+        "text": "Debrecen egyik legjobb burgere.",
+        "localGuide": true
+      }
+    ]
+  },
+  "location": {
+    "eyebrow": "Helyszín",
+    "title": "Találj Meg Minket",
+    "subtitle": "Látogass el hozzánk Debrecen szívében — várunk szeretettel!",
+    "address": "Cím",
+    "hours": "Nyitvatartás",
+    "weekdays": "Hétfő – Péntek",
+    "weekend": "Szombat – Vasárnap",
+    "directions": "Útvonaltervezés",
+    "call": "Hívás"
+  },
+  "menu": {
+    "eyebrow": "Étlap",
+    "title": "Az Étlapunk",
+    "subtitle": "Kézműves burgerek, friss wrapok és prémium köretek — minden, ami a Blazing Burgerben vár.",
+    "orderCta": "Rendeléshez hívj minket telefonon!",
+    "orderNow": "Rendelés Most",
+    "empty": "Az étlap hamarosan elérhető.",
+    "emptyHint": "",
+    "zoom": "Nagyítás",
+    "close": "Bezárás",
+    "prev": "Előző",
+    "next": "Következő",
+    "imageAlt": "Étlap oldal"
+  },
+  "menuData": {
+    "signature": "Különlegesség",
+    "combos": {
+      "title": "Kérd Menüben",
+      "subtitle": "Egészítsd ki étkezésedet kedvezményes menüvel",
+      "comboFries": "Sült burgonya",
+      "comboFriesSoda33": "Sült burgonya + 0,33L üdítő",
+      "comboFriesSoda50": "Sült burgonya + 0,5L üdítő"
+    },
+    "burgers": {
+      "title": "Burgerek",
+      "items": {
+        "blazingBurger": {
+          "name": "Blazing Burger",
+          "description": "Burger zsemle, marhahúspogácsa, cheddar sajt, grillezett gomba, jalapeño paprika, lecsó, bacon, grillezett paprika, burger szósz, fokhagymás majonéz."
+        },
+        "cheeseBurger": {
+          "name": "Cheese Burger",
+          "description": "Burger zsemle, marhahúspogácsa, cheddar sajt, savanyú uborka, lilahagyma, ketchup, mustár."
+        },
+        "classicBurger": {
+          "name": "Classic Burger",
+          "description": "Burger zsemle, marhahúspogácsa, cheddar sajt, jégsaláta, paradicsom, lilahagyma, burger szósz, fokhagymás majonéz."
+        },
+        "riotBurger": {
+          "name": "RIOT Burger",
+          "description": "Burger zsemle, marhahúspogácsa, cheddar sajt, paradicsom, hagymakarikák, jalapeño paprika, csípős szósz, fokhagymás majonéz."
+        },
+        "fatBurger": {
+          "name": "FAT Burger",
+          "description": "Burger zsemle, marhahúspogácsa, cheddar sajt, paradicsom, hagymakarikák, bacon, burger szósz, BBQ szósz."
+        },
+        "mrMarshall": {
+          "name": "MR. MARSHALL",
+          "description": "Burger zsemle, marhahúspogácsa, cheddar sajt, savanyú uborka, jégsaláta, hagymakarikák, burger szósz, BBQ szósz."
+        },
+        "baconDoubleCheese": {
+          "name": "Bacon Double Cheese",
+          "description": "Burger zsemle, dupla marhahúspogácsa, dupla cheddar sajt, bacon, savanyú uborka, lilahagyma, ketchup, mustár."
+        },
+        "babylonTower": {
+          "name": "Babylon Tower",
+          "description": "Burger zsemle, dupla marhahúspogácsa, dupla cheddar sajt, bacon, lecsó, jalapeño paprika, paradicsom, hagymakarikák, burger szósz, fokhagymás majonéz."
+        },
+        "pacemaker": {
+          "name": "Pacemaker",
+          "description": "Burger zsemle, dupla marhahúspogácsa, dupla cheddar sajt, császárszalonna, lila hagyma, savanyú uborka, ropogós pirított hagyma, mustár, BBQ szósz."
+        }
+      }
+    },
+    "gyros": {
+      "title": "Gyros",
+      "items": {
+        "gyrosPlate": {
+          "name": "Gyros Tál",
+          "description": "Csirkecomb csíkok, sültburgonya, jégsaláta, paradicsom, lilahagyma, kígyóuborka, reszelt trappista sajt, öntet."
+        },
+        "gyrosTortilla": {
+          "name": "Gyros Tortilla",
+          "description": "Csirkecomb csíkok, sültburgonya, jégsaláta, paradicsom, lilahagyma, kígyóuborka, reszelt trappista sajt, öntet — tortilla wrapban."
+        }
+      }
+    },
+    "wraps": {
+      "title": "Tortilla Wrapok",
+      "items": {
+        "mayoWrap": {
+          "name": "Majonézes Wrap",
+          "description": "Ropogós csirkemell csíkok, jégsaláta, paradicsom, kígyóuborka, fokhagymás majonéz."
+        },
+        "bbqWrap": {
+          "name": "BBQ Wrap",
+          "description": "Ropogós csirkemell csíkok, cheddar sajt, jégsaláta, paradicsom, lilahagyma, BBQ szósz."
+        },
+        "sweetChiliWrap": {
+          "name": "Sweet Chili Wrap",
+          "description": "Ropogós csirkemell csíkok, bacon, cheddar sajt, jégsaláta, kígyóuborka, sweet chili szósz."
+        },
+        "sloppyJoeWrap": {
+          "name": "Sloppy Joe Wrap",
+          "description": "Aprított marhahúspogácsa, cheddar sajt, jégsaláta, paradicsom, lilahagyma, jalapeño paprika, burger szósz."
+        },
+        "blazingWrap": {
+          "name": "Blazing Wrap",
+          "description": "Aprított marhahúspogácsa, cheddar sajt, jégsaláta, grillezett paprika, grillezett gomba, jalapeño paprika, burger szósz."
+        }
+      }
+    },
+    "loaded": {
+      "title": "Loaded & Tálak",
+      "items": {
+        "chickNSalad": {
+          "name": "Chick 'N' Salad",
+          "description": "Ropogós csirkemell, sültburgonya, jégsaláta, paradicsom, kígyóuborka, lilahagyma, sweet chili szósz."
+        },
+        "blazingFries": {
+          "name": "Blazing Fries",
+          "description": "Aprított marhahúspogácsa, bacon, sültburgonya, grillezett paprika, grillezett gomba, jalapeño paprika, burger szósz."
+        },
+        "blazingGyrosPlate": {
+          "name": "Blazing Gyros Tál",
+          "description": "Csirkecomb csíkok, sültburgonya, jégsaláta, jalapeño paprika, grillezett paprika, grillezett gomba, bacon, reszelt trappista sajt, burger szósz."
+        },
+        "sloppyJoePlate": {
+          "name": "Sloppy Joe Tál",
+          "description": "Aprított marhahúspogácsa, sültburgonya, jégsaláta, paradicsom, lilahagyma, jalapeño paprika, burger szósz."
+        }
+      }
+    },
+    "sides": {
+      "title": "Köretek",
+      "items": {
+        "fries": { "name": "Sültburgonya", "description": "Ropogós, frissen sült aranybarna sültkrumpli." },
+        "onionRings": { "name": "Hagymakarikák (6 db)", "description": "Ropogósra sült hagymakarikák." },
+        "potatoPancakes": { "name": "Lepcsánka (2 db)", "description": "Házi lepcsánka ropogósra sütve." },
+        "salad": { "name": "Saláta", "description": "Jégsaláta, paradicsom, kígyóuborka, lilahagyma." }
+      }
+    },
+    "extras": {
+      "title": "Extrák",
+      "items": {
+        "beefPatty": { "name": "Marhahúspogácsa", "description": "Extra marhahúspogácsa." },
+        "crispyChicken": { "name": "Ropogós Csirkemell", "description": "Extra ropogós csirkemell." },
+        "chickenStrips": { "name": "Csirkemell csíkok", "description": "Extra csirkemell csíkok." },
+        "bacon": { "name": "Bacon", "description": "Extra bacon." },
+        "vegetables": { "name": "Zöldségek", "description": "Extra zöldségek." },
+        "cheese": { "name": "Sajt", "description": "Extra cheddar sajt." }
+      }
+    },
+    "sauces": {
+      "title": "Szószok",
+      "items": {
+        "ketchup": { "name": "Ketchup", "description": "" },
+        "mustard": { "name": "Mustár", "description": "" },
+        "garlicMayo": { "name": "Fokhagymás majonéz", "description": "" },
+        "burgerSauce": { "name": "Burgerszósz", "description": "" },
+        "bbqSauce": { "name": "BBQ szósz", "description": "" },
+        "sweetChiliSauce": { "name": "Sweet chili szósz", "description": "" },
+        "hotSauce": { "name": "Csípős szósz", "description": "" }
+      }
+    }
+  },
+  "about": {
+    "eyebrow": "Történetünk",
+    "title": "A Blazing Burger Története",
+    "subtitle": "Szenvedély, minőség és a tökéletes burger iránti elkötelezettség.",
+    "story1": {
+      "title": "Egy Szenvedély Születése",
+      "description": "A Blazing Burger abból a vízióból született, hogy Debrecenben is elérhető legyen a valódi amerikai craft burger élmény. Nem gyorséttermi lánc, hanem egy helyi kedvenc, ahol minden burger kézműves gondossággal készül."
+    },
+    "story2": {
+      "title": "Minőség Minden Falatban",
+      "description": "Hiszünk abban, hogy a minőség nem luxus — alapelv. Friss, helyi alapanyagok, kézzel formázott pogácsák és gondosan válogatott feltétek. Nem spórolunk, mert tudjuk: a vendégeink megérdemlik a legjobbat."
+    },
+    "story3": {
+      "title": "A Helyiek Kedvence",
+      "description": "Több mint 499 elégedett vendég, 4.9-es értékelés — ezek nem csak számok. Ezek bizonyítják, hogy a Blazing Burger Debrecen egyik legkedveltebb burger házává vált. Családok, baráti társaságok és burger rajongók egyaránt visszatérnek hozzánk."
+    },
+    "values": {
+      "eyebrow": "Értékeink",
+      "title": "Amiben Hiszünk",
+      "craft": {
+        "title": "Kézműves Minőség",
+        "description": "Minden pogácsa frissen készül, kézzel formázva — nem gyári, hanem igazi craft."
+      },
+      "local": {
+        "title": "Helyi Kedvenc",
+        "description": "Büszkék vagyunk arra, hogy Debrecen burger rajongóinak otthona lehetünk."
+      },
+      "passion": {
+        "title": "Szenvedély",
+        "description": "Az étel iránti szeretetünk minden burgerben, minden sültkrumpliban megmutatkozik."
+      }
+    }
+  },
+  "gallery": {
+    "eyebrow": "Galéria",
+    "title": "Pillanatok a Blazing Burgerből",
+    "subtitle": "Prémium burgerek, hangulatos környezet és felejthetetlen élmények.",
+    "viewImage": "Kép megtekintése",
+    "facebookCta": "További fotók a Facebookon",
+    "facebookDescription": "Kövess minket és nézd meg legfrissebb képeinket a Facebook oldalunkon."
+  },
+  "contact": {
+    "eyebrow": "Kapcsolat",
+    "title": "Lépj Kapcsolatba Velünk",
+    "subtitle": "Várunk szeretettel a Blazing Burgerben — akár egy gyors ebédre, akár egy családi vacsorára.",
+    "address": "Cím",
+    "phone": "Telefon",
+    "hours": "Nyitvatartás",
+    "weekdays": "Hétfő – Péntek",
+    "weekend": "Szombat – Vasárnap",
+    "services": "Szolgáltatások",
+    "parking": "Parkolás",
+    "parkingInfo": "Ingyenes parkolás elérhető a közelben. Kérjük, kövesd az utcai jelzéseket.",
+    "social": "Közösségi média",
+    "socialPlaceholder": "Hamarosan elérhető",
+    "directions": "Útvonaltervezés",
+    "call": "Hívás Most",
+    "cta": "Látogass El Hozzánk",
+    "ctaDescription": "Foglalj asztalt telefonon, vagy csak gyere be — mindig örömmel várunk!"
+  },
+  "services": {
+    "dineIn": "Helyben fogyasztás",
+    "takeaway": "Elvitel",
+    "outdoorSeating": "Kültéri ülőhely",
+    "catering": "Catering",
+    "familyFriendly": "Családbarát",
+    "dogFriendly": "Kutyabarát"
+  },
+  "highlights": {
+    "craft": "Autentikus Craft Burgerek",
+    "handmade": "Kézzel Készített Pogácsák",
+    "fresh": "Friss Alapanyagok",
+    "coffee": "Kiváló Kávé",
+    "fries": "Prémium Sültkrumpli"
+  },
+  "footer": {
+    "description": "Debrecen prémium craft burger élménye. Kézműves minőség, friss alapanyagok, felejthetetlen ízek.",
+    "quickLinks": "Gyors linkek",
+    "contact": "Kapcsolat",
+    "hours": "Nyitvatartás",
+    "weekdays": "H–P",
+    "weekend": "Szo–V",
+    "copyright": "Minden jog fenntartva.",
+    "madeIn": "Készült szenvedéllyel Debrecenben",
+    "followFacebook": "Kövess minket Facebookon"
+  },
+  "common": {
+    "loading": "Betöltés...",
+    "logoAlt": "Blazing Burger logó",
+    "logoPlaceholder": "Blazing Burger"
+  }
+}

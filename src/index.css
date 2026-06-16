@@ -1,0 +1,105 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #ff5a1f;
+  --color-primary-dark: #e04a15;
+  --color-secondary: #f59e0b;
+  --color-dark: #0b0b0b;
+  --color-surface: #121212;
+  --color-surface-light: #1a1a1a;
+  --color-accent: #ffe082;
+  --color-text: #ffffff;
+  --color-text-muted: #a3a3a3;
+  --font-display: "Syne", system-ui, sans-serif;
+  --font-body: "DM Sans", system-ui, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-dark text-text font-body antialiased;
+  }
+
+  ::selection {
+    @apply bg-primary/40 text-white;
+  }
+}
+
+@layer utilities {
+  .font-display {
+    font-family: var(--font-display);
+  }
+
+  .font-body {
+    font-family: var(--font-body);
+  }
+
+  .text-gradient {
+    @apply bg-clip-text text-transparent;
+    background-image: linear-gradient(135deg, #ff5a1f 0%, #f59e0b 50%, #ffe082 100%);
+  }
+
+  .text-gradient-subtle {
+    @apply bg-clip-text text-transparent;
+    background-image: linear-gradient(135deg, #ffffff 0%, #ffe082 100%);
+  }
+
+  .glass {
+    @apply bg-dark/60 backdrop-blur-xl border border-white/10;
+  }
+
+  .glass-strong {
+    @apply bg-surface/90 backdrop-blur-2xl border border-white/10;
+  }
+
+  .hero-overlay {
+    background: linear-gradient(
+      to bottom,
+      rgba(11, 11, 11, 0.4) 0%,
+      rgba(11, 11, 11, 0.6) 50%,
+      rgba(11, 11, 11, 0.95) 100%
+    );
+  }
+
+  .section-gradient {
+    background: radial-gradient(ellipse at top, rgba(255, 90, 31, 0.08) 0%, transparent 60%);
+  }
+
+  .card-hover {
+    @apply transition-all duration-500;
+  }
+
+  .card-hover:hover {
+    @apply -translate-y-1;
+    box-shadow: 0 20px 60px -15px rgba(255, 90, 31, 0.25);
+  }
+
+  .btn-glow {
+    box-shadow: 0 0 30px -5px rgba(255, 90, 31, 0.5);
+  }
+
+  .btn-glow:hover {
+    box-shadow: 0 0 40px -5px rgba(255, 90, 31, 0.7);
+  }
+
+  .noise {
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
